@@ -1,0 +1,17 @@
+[submodule "u-boot"]
+	path = u-boot
+	url = https://github.com/fantasketech/u_boot_snickerdoodle.git
+
+[submodule "kernel"]
+	path = kernel
+	url = https://github.com/fantasketech/linux_snickerdoodle.git
+
+[submodule "root fs"]
+	path = fs
+	url = https://github.com/fantasketech/debian_snickerdoodle.git
+
+[submodule "dts"]
+	path = dts
+	url = https://github.com/fantasketech/dts_snickerdoodle.git
+
+

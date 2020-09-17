@@ -14,4 +14,20 @@
 	path = dts
 	url = https://github.com/fantasketech/dts_snickerdoodle.git
 	branch = dev
+[submodule "base"]
+	path = vivado/base
+	url = https://github.com/krtkl/snickerdoodle-base
+[submodule "board-files"]
+	path = vivado/board-files
+	url = https://github.com/krtkl/snickerdoodle-board-files
+[submodule "manual"]
+	path = extra/manual
+	url = https://github.com/krtkl/snickerdoodle-manual
+[submodule "schematics"]
+	path = extra/schematics
+	url = https://github.com/krtkl/open-source-schematics
+[submodule "controller firmware"]
+	path = extra/ctrl_fw
+	url = https://github.com/fantasketech/controller_snickerdoodle.git
+	branch = dev
 

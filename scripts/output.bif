@@ -1,0 +1,7 @@
+//arch = zynq; split = false; format = BIN
+the_ROM_image:
+{
+	[bootloader]../sandbox/fsbl.elf
+	../sandbox/base_wrapper.bit
+	../sandbox/u-boot.elf
+}

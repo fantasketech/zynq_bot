@@ -3,7 +3,7 @@
 staging=../sandbox/
 bootgen=/tools/Xilinx/Vitis/2020.1/bin/bootgen
 arch=zynq
-bif=$staging/output.bif
+bif=./output.bif
 output=$staging/boot.bin
 
 rm -rf $output

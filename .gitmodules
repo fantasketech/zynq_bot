@@ -1,0 +1,30 @@
+[submodule "u-boot"]
+	path = u-boot
+	url = https://github.com/fantasketech/u_boot_snickerdoodle.git
+	branch = dev
+[submodule "kernel"]
+	path = kernel
+	url = https://github.com/fantasketech/linux_snickerdoodle.git
+	branch = dev
+[submodule "rootfs"]
+	path = rootfs
+	url = https://github.com/fantasketech/debian_snickerdoodle.git
+[submodule "dts"]
+	path = dts
+	url = https://github.com/fantasketech/dts_snickerdoodle.git
+	branch = dev
+[submodule "vivado/base"]
+	path = vivado/base
+	url = https://github.com/krtkl/snickerdoodle-base
+[submodule "vivado/board-files"]
+	path = vivado/board-files
+	url = https://github.com/krtkl/snickerdoodle-board-files
+[submodule "extra/manuals"]
+	path = extra/manuals
+	url = https://github.com/krtkl/snickerdoodle-manual
+[submodule "extra/schematics"]
+	path = extra/schematics
+	url = https://github.com/krtkl/open-source-schematics
+[submodule "extra/board-mcu-code"]
+	path = extra/board-mcu-code
+	url = https://github.com/fantasketech/controller_snickerdoodle.git

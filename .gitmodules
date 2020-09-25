@@ -6,28 +6,25 @@
 	path = kernel
 	url = https://github.com/fantasketech/linux_snickerdoodle.git
 	branch = dev
-[submodule "root fs"]
-	path = fs
+[submodule "rootfs"]
+	path = rootfs
 	url = https://github.com/fantasketech/debian_snickerdoodle.git
-	branch = dev
 [submodule "dts"]
 	path = dts
 	url = https://github.com/fantasketech/dts_snickerdoodle.git
 	branch = dev
-[submodule "base"]
+[submodule "vivado/base"]
 	path = vivado/base
 	url = https://github.com/krtkl/snickerdoodle-base
-[submodule "board-files"]
+[submodule "vivado/board-files"]
 	path = vivado/board-files
 	url = https://github.com/krtkl/snickerdoodle-board-files
-[submodule "manual"]
-	path = extra/manual
+[submodule "extra/manuals"]
+	path = extra/manuals
 	url = https://github.com/krtkl/snickerdoodle-manual
-[submodule "schematics"]
+[submodule "extra/schematics"]
 	path = extra/schematics
 	url = https://github.com/krtkl/open-source-schematics
-[submodule "controller firmware"]
-	path = extra/ctrl_fw
+[submodule "extra/board-mcu-code"]
+	path = extra/board-mcu-code
 	url = https://github.com/fantasketech/controller_snickerdoodle.git
-	branch = dev
-

@@ -1,14 +1,10 @@
-#!/bin/bash
-
-procs=32
-
-[ -d /media/sf_vm_shared ] && {
-	procs=4
+[ "$sandbox" == "" ] && {
+	sandbox=/home/nf/git/zynq_bot/sandbox
 }
 
-export ARCH=arm
-export CROSS_COMPILE=arm-linux-gnueabihf-
-export PATH=$PATH:/tools/Xilinx/Vitis/2020.1/gnu/aarch32/lin/gcc-arm-linux-gnueabi/bin:/home/nf/git/git_usb/snickerdoodle-u-boot/tools
+[ "$procs" == "" ] && {
+	procs=4
+}
 
 [ "$1" = "dtbs" ] && {
 	make dtbs
@@ -16,7 +12,7 @@ export PATH=$PATH:/tools/Xilinx/Vitis/2020.1/gnu/aarch32/lin/gcc-arm-linux-gnuea
 }
 
 [ "$1" = "menuconfig" ] && {
-	make menuconfig
+	make ARCH=arm menuconfig
 	exit 0
 }
 
@@ -24,6 +20,7 @@ export PATH=$PATH:/tools/Xilinx/Vitis/2020.1/gnu/aarch32/lin/gcc-arm-linux-gnuea
 	make snickerdoodle_defconfig
 }
 
-#make -j$procs LOADADDR=0x8000 uImage
-make LOADADDR=0x8000 uImage
-
+make -j$procs LOADADDR=0x8000 uImage && {
+	cp -v arch/arm/boot/uImage $sandbox/
+	make modules
+}

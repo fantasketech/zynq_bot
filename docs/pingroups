@@ -1,0 +1,815 @@
+registered pin groups:
+group: ethernet0_0_grp
+pin 16 (MIO16)
+pin 17 (MIO17)
+pin 18 (MIO18)
+pin 19 (MIO19)
+pin 20 (MIO20)
+pin 21 (MIO21)
+pin 22 (MIO22)
+pin 23 (MIO23)
+pin 24 (MIO24)
+pin 25 (MIO25)
+pin 26 (MIO26)
+pin 27 (MIO27)
+
+group: ethernet1_0_grp
+pin 28 (MIO28)
+pin 29 (MIO29)
+pin 30 (MIO30)
+pin 31 (MIO31)
+pin 32 (MIO32)
+pin 33 (MIO33)
+pin 34 (MIO34)
+pin 35 (MIO35)
+pin 36 (MIO36)
+pin 37 (MIO37)
+pin 38 (MIO38)
+pin 39 (MIO39)
+
+group: mdio0_0_grp
+pin 52 (MIO52)
+pin 53 (MIO53)
+
+group: mdio1_0_grp
+pin 52 (MIO52)
+pin 53 (MIO53)
+
+group: qspi0_0_grp
+pin 1 (MIO1)
+pin 2 (MIO2)
+pin 3 (MIO3)
+pin 4 (MIO4)
+pin 5 (MIO5)
+pin 6 (MIO6)
+
+group: qspi1_0_grp
+pin 9 (MIO9)
+pin 10 (MIO10)
+pin 11 (MIO11)
+pin 12 (MIO12)
+pin 13 (MIO13)
+
+group: qspi_fbclk_grp
+pin 8 (MIO8)
+
+group: qspi_cs1_grp
+pin 0 (MIO0)
+
+group: spi0_0_grp
+pin 16 (MIO16)
+pin 17 (MIO17)
+pin 21 (MIO21)
+
+group: spi0_0_ss0_grp
+pin 18 (MIO18)
+
+group: spi0_0_ss1_grp
+pin 19 (MIO19)
+
+group: spi0_0_ss2_grp
+pin 20 (MIO20)
+
+group: spi0_1_grp
+pin 28 (MIO28)
+pin 29 (MIO29)
+pin 33 (MIO33)
+
+group: spi0_1_ss0_grp
+pin 30 (MIO30)
+
+group: spi0_1_ss1_grp
+pin 31 (MIO31)
+
+group: spi0_1_ss2_grp
+pin 32 (MIO32)
+
+group: spi0_2_grp
+pin 40 (MIO40)
+pin 41 (MIO41)
+pin 45 (MIO45)
+
+group: spi0_2_ss0_grp
+pin 42 (MIO42)
+
+group: spi0_2_ss1_grp
+pin 43 (MIO43)
+
+group: spi0_2_ss2_grp
+pin 44 (MIO44)
+
+group: spi1_0_grp
+pin 10 (MIO10)
+pin 11 (MIO11)
+pin 12 (MIO12)
+
+group: spi1_0_ss0_grp
+pin 13 (MIO13)
+
+group: spi1_0_ss1_grp
+pin 14 (MIO14)
+
+group: spi1_0_ss2_grp
+pin 15 (MIO15)
+
+group: spi1_1_grp
+pin 22 (MIO22)
+pin 23 (MIO23)
+pin 24 (MIO24)
+
+group: spi1_1_ss0_grp
+pin 25 (MIO25)
+
+group: spi1_1_ss1_grp
+pin 26 (MIO26)
+
+group: spi1_1_ss2_grp
+pin 27 (MIO27)
+
+group: spi1_2_grp
+pin 34 (MIO34)
+pin 35 (MIO35)
+pin 36 (MIO36)
+
+group: spi1_2_ss0_grp
+pin 37 (MIO37)
+
+group: spi1_2_ss1_grp
+pin 38 (MIO38)
+
+group: spi1_2_ss2_grp
+pin 39 (MIO39)
+
+group: spi1_3_grp
+pin 46 (MIO46)
+pin 47 (MIO47)
+pin 48 (MIO48)
+pin 49 (MIO49)
+
+group: spi1_3_ss0_grp
+pin 49 (MIO49)
+
+group: spi1_3_ss1_grp
+pin 50 (MIO50)
+
+group: spi1_3_ss2_grp
+pin 51 (MIO51)
+
+group: sdio0_0_grp
+pin 16 (MIO16)
+pin 17 (MIO17)
+pin 18 (MIO18)
+pin 19 (MIO19)
+pin 20 (MIO20)
+pin 21 (MIO21)
+
+group: sdio0_1_grp
+pin 28 (MIO28)
+pin 29 (MIO29)
+pin 30 (MIO30)
+pin 31 (MIO31)
+pin 32 (MIO32)
+pin 33 (MIO33)
+
+group: sdio0_2_grp
+pin 40 (MIO40)
+pin 41 (MIO41)
+pin 42 (MIO42)
+pin 43 (MIO43)
+pin 44 (MIO44)
+pin 45 (MIO45)
+
+group: sdio1_0_grp
+pin 10 (MIO10)
+pin 11 (MIO11)
+pin 12 (MIO12)
+pin 13 (MIO13)
+pin 14 (MIO14)
+pin 15 (MIO15)
+
+group: sdio1_1_grp
+pin 22 (MIO22)
+pin 23 (MIO23)
+pin 24 (MIO24)
+pin 25 (MIO25)
+pin 26 (MIO26)
+pin 27 (MIO27)
+
+group: sdio1_2_grp
+pin 34 (MIO34)
+pin 35 (MIO35)
+pin 36 (MIO36)
+pin 37 (MIO37)
+pin 38 (MIO38)
+pin 39 (MIO39)
+
+group: sdio1_3_grp
+pin 46 (MIO46)
+pin 47 (MIO47)
+pin 48 (MIO48)
+pin 49 (MIO49)
+pin 50 (MIO50)
+pin 51 (MIO51)
+
+group: sdio0_emio_wp_grp
+pin 54 (EMIO_SD0_WP)
+
+group: sdio0_emio_cd_grp
+pin 55 (EMIO_SD0_CD)
+
+group: sdio1_emio_wp_grp
+pin 56 (EMIO_SD1_WP)
+
+group: sdio1_emio_cd_grp
+pin 57 (EMIO_SD1_CD)
+
+group: smc0_nor_grp
+pin 0 (MIO0)
+pin 3 (MIO3)
+pin 4 (MIO4)
+pin 5 (MIO5)
+pin 6 (MIO6)
+pin 7 (MIO7)
+pin 8 (MIO8)
+pin 9 (MIO9)
+pin 10 (MIO10)
+pin 11 (MIO11)
+pin 13 (MIO13)
+pin 15 (MIO15)
+pin 16 (MIO16)
+pin 17 (MIO17)
+pin 18 (MIO18)
+pin 19 (MIO19)
+pin 20 (MIO20)
+pin 21 (MIO21)
+pin 22 (MIO22)
+pin 23 (MIO23)
+pin 24 (MIO24)
+pin 25 (MIO25)
+pin 26 (MIO26)
+pin 27 (MIO27)
+pin 28 (MIO28)
+pin 29 (MIO29)
+pin 30 (MIO30)
+pin 31 (MIO31)
+pin 32 (MIO32)
+pin 33 (MIO33)
+pin 34 (MIO34)
+pin 35 (MIO35)
+pin 36 (MIO36)
+pin 37 (MIO37)
+pin 38 (MIO38)
+pin 39 (MIO39)
+
+group: smc0_nor_cs1_grp
+pin 1 (MIO1)
+
+group: smc0_nor_addr25_grp
+pin 1 (MIO1)
+
+group: smc0_nand_grp
+pin 0 (MIO0)
+pin 2 (MIO2)
+pin 3 (MIO3)
+pin 4 (MIO4)
+pin 5 (MIO5)
+pin 6 (MIO6)
+pin 7 (MIO7)
+pin 8 (MIO8)
+pin 9 (MIO9)
+pin 10 (MIO10)
+pin 11 (MIO11)
+pin 12 (MIO12)
+pin 13 (MIO13)
+pin 14 (MIO14)
+pin 16 (MIO16)
+pin 17 (MIO17)
+pin 18 (MIO18)
+pin 19 (MIO19)
+pin 20 (MIO20)
+pin 21 (MIO21)
+pin 22 (MIO22)
+pin 23 (MIO23)
+
+group: smc0_nand8_grp
+pin 0 (MIO0)
+pin 2 (MIO2)
+pin 3 (MIO3)
+pin 4 (MIO4)
+pin 5 (MIO5)
+pin 6 (MIO6)
+pin 7 (MIO7)
+pin 8 (MIO8)
+pin 9 (MIO9)
+pin 10 (MIO10)
+pin 11 (MIO11)
+pin 12 (MIO12)
+pin 13 (MIO13)
+pin 14 (MIO14)
+
+group: can0_0_grp
+pin 10 (MIO10)
+pin 11 (MIO11)
+
+group: can0_1_grp
+pin 14 (MIO14)
+pin 15 (MIO15)
+
+group: can0_2_grp
+pin 18 (MIO18)
+pin 19 (MIO19)
+
+group: can0_3_grp
+pin 22 (MIO22)
+pin 23 (MIO23)
+
+group: can0_4_grp
+pin 26 (MIO26)
+pin 27 (MIO27)
+
+group: can0_5_grp
+pin 30 (MIO30)
+pin 31 (MIO31)
+
+group: can0_6_grp
+pin 34 (MIO34)
+pin 35 (MIO35)
+
+group: can0_7_grp
+pin 38 (MIO38)
+pin 39 (MIO39)
+
+group: can0_8_grp
+pin 42 (MIO42)
+pin 43 (MIO43)
+
+group: can0_9_grp
+pin 46 (MIO46)
+pin 47 (MIO47)
+
+group: can0_10_grp
+pin 50 (MIO50)
+pin 51 (MIO51)
+
+group: can1_0_grp
+pin 8 (MIO8)
+pin 9 (MIO9)
+
+group: can1_1_grp
+pin 12 (MIO12)
+pin 13 (MIO13)
+
+group: can1_2_grp
+pin 16 (MIO16)
+pin 17 (MIO17)
+
+group: can1_3_grp
+pin 20 (MIO20)
+pin 21 (MIO21)
+
+group: can1_4_grp
+pin 24 (MIO24)
+pin 25 (MIO25)
+
+group: can1_5_grp
+pin 28 (MIO28)
+pin 29 (MIO29)
+
+group: can1_6_grp
+pin 32 (MIO32)
+pin 33 (MIO33)
+
+group: can1_7_grp
+pin 36 (MIO36)
+pin 37 (MIO37)
+
+group: can1_8_grp
+pin 40 (MIO40)
+pin 41 (MIO41)
+
+group: can1_9_grp
+pin 44 (MIO44)
+pin 45 (MIO45)
+
+group: can1_10_grp
+pin 48 (MIO48)
+pin 49 (MIO49)
+
+group: can1_11_grp
+pin 52 (MIO52)
+pin 53 (MIO53)
+
+group: uart0_0_grp
+pin 10 (MIO10)
+pin 11 (MIO11)
+
+group: uart0_1_grp
+pin 14 (MIO14)
+pin 15 (MIO15)
+
+group: uart0_2_grp
+pin 18 (MIO18)
+pin 19 (MIO19)
+
+group: uart0_3_grp
+pin 22 (MIO22)
+pin 23 (MIO23)
+
+group: uart0_4_grp
+pin 26 (MIO26)
+pin 27 (MIO27)
+
+group: uart0_5_grp
+pin 30 (MIO30)
+pin 31 (MIO31)
+
+group: uart0_6_grp
+pin 34 (MIO34)
+pin 35 (MIO35)
+
+group: uart0_7_grp
+pin 38 (MIO38)
+pin 39 (MIO39)
+
+group: uart0_8_grp
+pin 42 (MIO42)
+pin 43 (MIO43)
+
+group: uart0_9_grp
+pin 46 (MIO46)
+pin 47 (MIO47)
+
+group: uart0_10_grp
+pin 50 (MIO50)
+pin 51 (MIO51)
+
+group: uart1_0_grp
+pin 8 (MIO8)
+pin 9 (MIO9)
+
+group: uart1_1_grp
+pin 12 (MIO12)
+pin 13 (MIO13)
+
+group: uart1_2_grp
+pin 16 (MIO16)
+pin 17 (MIO17)
+
+group: uart1_3_grp
+pin 20 (MIO20)
+pin 21 (MIO21)
+
+group: uart1_4_grp
+pin 24 (MIO24)
+pin 25 (MIO25)
+
+group: uart1_5_grp
+pin 28 (MIO28)
+pin 29 (MIO29)
+
+group: uart1_6_grp
+pin 32 (MIO32)
+pin 33 (MIO33)
+
+group: uart1_7_grp
+pin 36 (MIO36)
+pin 37 (MIO37)
+
+group: uart1_8_grp
+pin 40 (MIO40)
+pin 41 (MIO41)
+
+group: uart1_9_grp
+pin 44 (MIO44)
+pin 45 (MIO45)
+
+group: uart1_10_grp
+pin 48 (MIO48)
+pin 49 (MIO49)
+
+group: uart1_11_grp
+pin 52 (MIO52)
+pin 53 (MIO53)
+
+group: i2c0_0_grp
+pin 10 (MIO10)
+pin 11 (MIO11)
+
+group: i2c0_1_grp
+pin 14 (MIO14)
+pin 15 (MIO15)
+
+group: i2c0_2_grp
+pin 18 (MIO18)
+pin 19 (MIO19)
+
+group: i2c0_3_grp
+pin 22 (MIO22)
+pin 23 (MIO23)
+
+group: i2c0_4_grp
+pin 26 (MIO26)
+pin 27 (MIO27)
+
+group: i2c0_5_grp
+pin 30 (MIO30)
+pin 31 (MIO31)
+
+group: i2c0_6_grp
+pin 34 (MIO34)
+pin 35 (MIO35)
+
+group: i2c0_7_grp
+pin 38 (MIO38)
+pin 39 (MIO39)
+
+group: i2c0_8_grp
+pin 42 (MIO42)
+pin 43 (MIO43)
+
+group: i2c0_9_grp
+pin 46 (MIO46)
+pin 47 (MIO47)
+
+group: i2c0_10_grp
+pin 50 (MIO50)
+pin 51 (MIO51)
+
+group: i2c1_0_grp
+pin 12 (MIO12)
+pin 13 (MIO13)
+
+group: i2c1_1_grp
+pin 16 (MIO16)
+pin 17 (MIO17)
+
+group: i2c1_2_grp
+pin 20 (MIO20)
+pin 21 (MIO21)
+
+group: i2c1_3_grp
+pin 24 (MIO24)
+pin 25 (MIO25)
+
+group: i2c1_4_grp
+pin 28 (MIO28)
+pin 29 (MIO29)
+
+group: i2c1_5_grp
+pin 32 (MIO32)
+pin 33 (MIO33)
+
+group: i2c1_6_grp
+pin 36 (MIO36)
+pin 37 (MIO37)
+
+group: i2c1_7_grp
+pin 40 (MIO40)
+pin 41 (MIO41)
+
+group: i2c1_8_grp
+pin 44 (MIO44)
+pin 45 (MIO45)
+
+group: i2c1_9_grp
+pin 48 (MIO48)
+pin 49 (MIO49)
+
+group: i2c1_10_grp
+pin 52 (MIO52)
+pin 53 (MIO53)
+
+group: ttc0_0_grp
+pin 18 (MIO18)
+pin 19 (MIO19)
+
+group: ttc0_1_grp
+pin 30 (MIO30)
+pin 31 (MIO31)
+
+group: ttc0_2_grp
+pin 42 (MIO42)
+pin 43 (MIO43)
+
+group: ttc1_0_grp
+pin 16 (MIO16)
+pin 17 (MIO17)
+
+group: ttc1_1_grp
+pin 28 (MIO28)
+pin 29 (MIO29)
+
+group: ttc1_2_grp
+pin 40 (MIO40)
+pin 41 (MIO41)
+
+group: swdt0_0_grp
+pin 14 (MIO14)
+pin 15 (MIO15)
+
+group: swdt0_1_grp
+pin 26 (MIO26)
+pin 27 (MIO27)
+
+group: swdt0_2_grp
+pin 38 (MIO38)
+pin 39 (MIO39)
+
+group: swdt0_3_grp
+pin 50 (MIO50)
+pin 51 (MIO51)
+
+group: swdt0_4_grp
+pin 52 (MIO52)
+pin 53 (MIO53)
+
+group: gpio0_0_grp
+pin 0 (MIO0)
+
+group: gpio0_1_grp
+pin 1 (MIO1)
+
+group: gpio0_2_grp
+pin 2 (MIO2)
+
+group: gpio0_3_grp
+pin 3 (MIO3)
+
+group: gpio0_4_grp
+pin 4 (MIO4)
+
+group: gpio0_5_grp
+pin 5 (MIO5)
+
+group: gpio0_6_grp
+pin 6 (MIO6)
+
+group: gpio0_7_grp
+pin 7 (MIO7)
+
+group: gpio0_8_grp
+pin 8 (MIO8)
+
+group: gpio0_9_grp
+pin 9 (MIO9)
+
+group: gpio0_10_grp
+pin 10 (MIO10)
+
+group: gpio0_11_grp
+pin 11 (MIO11)
+
+group: gpio0_12_grp
+pin 12 (MIO12)
+
+group: gpio0_13_grp
+pin 13 (MIO13)
+
+group: gpio0_14_grp
+pin 14 (MIO14)
+
+group: gpio0_15_grp
+pin 15 (MIO15)
+
+group: gpio0_16_grp
+pin 16 (MIO16)
+
+group: gpio0_17_grp
+pin 17 (MIO17)
+
+group: gpio0_18_grp
+pin 18 (MIO18)
+
+group: gpio0_19_grp
+pin 19 (MIO19)
+
+group: gpio0_20_grp
+pin 20 (MIO20)
+
+group: gpio0_21_grp
+pin 21 (MIO21)
+
+group: gpio0_22_grp
+pin 22 (MIO22)
+
+group: gpio0_23_grp
+pin 23 (MIO23)
+
+group: gpio0_24_grp
+pin 24 (MIO24)
+
+group: gpio0_25_grp
+pin 25 (MIO25)
+
+group: gpio0_26_grp
+pin 26 (MIO26)
+
+group: gpio0_27_grp
+pin 27 (MIO27)
+
+group: gpio0_28_grp
+pin 28 (MIO28)
+
+group: gpio0_29_grp
+pin 29 (MIO29)
+
+group: gpio0_30_grp
+pin 30 (MIO30)
+
+group: gpio0_31_grp
+pin 31 (MIO31)
+
+group: gpio0_32_grp
+pin 32 (MIO32)
+
+group: gpio0_33_grp
+pin 33 (MIO33)
+
+group: gpio0_34_grp
+pin 34 (MIO34)
+
+group: gpio0_35_grp
+pin 35 (MIO35)
+
+group: gpio0_36_grp
+pin 36 (MIO36)
+
+group: gpio0_37_grp
+pin 37 (MIO37)
+
+group: gpio0_38_grp
+pin 38 (MIO38)
+
+group: gpio0_39_grp
+pin 39 (MIO39)
+
+group: gpio0_40_grp
+pin 40 (MIO40)
+
+group: gpio0_41_grp
+pin 41 (MIO41)
+
+group: gpio0_42_grp
+pin 42 (MIO42)
+
+group: gpio0_43_grp
+pin 43 (MIO43)
+
+group: gpio0_44_grp
+pin 44 (MIO44)
+
+group: gpio0_45_grp
+pin 45 (MIO45)
+
+group: gpio0_46_grp
+pin 46 (MIO46)
+
+group: gpio0_47_grp
+pin 47 (MIO47)
+
+group: gpio0_48_grp
+pin 48 (MIO48)
+
+group: gpio0_49_grp
+pin 49 (MIO49)
+
+group: gpio0_50_grp
+pin 50 (MIO50)
+
+group: gpio0_51_grp
+pin 51 (MIO51)
+
+group: gpio0_52_grp
+pin 52 (MIO52)
+
+group: gpio0_53_grp
+pin 53 (MIO53)
+
+group: usb0_0_grp
+pin 28 (MIO28)
+pin 29 (MIO29)
+pin 30 (MIO30)
+pin 31 (MIO31)
+pin 32 (MIO32)
+pin 33 (MIO33)
+pin 34 (MIO34)
+pin 35 (MIO35)
+pin 36 (MIO36)
+pin 37 (MIO37)
+pin 38 (MIO38)
+pin 39 (MIO39)
+
+group: usb1_0_grp
+pin 40 (MIO40)
+pin 41 (MIO41)
+pin 42 (MIO42)
+pin 43 (MIO43)
+pin 44 (MIO44)
+pin 45 (MIO45)
+pin 46 (MIO46)
+pin 47 (MIO47)
+pin 48 (MIO48)
+pin 49 (MIO49)
+pin 50 (MIO50)
+pin 51 (MIO51)
+
